@@ -1,8 +1,6 @@
 # covid-19
 Resources for COVID-19
 
-
-
 ## Bill Soistmann
 
 ## Jennifer Cleary
@@ -14,3 +12,4 @@ Resources for COVID-19
 ## heidiwinters
 ## Aidan Donoho
 ## kyla
+## Alex Racapé
