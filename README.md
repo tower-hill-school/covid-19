@@ -7,3 +7,4 @@ Resources for COVID-19
 ## Joe Zakielarz
 ## Anna Paisley
 ## Krish
+## Barron Jones
