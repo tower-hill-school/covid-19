@@ -1,5 +1,8 @@
 # covid-19
 Resources for COVID-19
 
-## Joe Zakielarz
+## Bill Soistmann
 
+## Jennifer Cleary
+
+## Joe Zakielarz
